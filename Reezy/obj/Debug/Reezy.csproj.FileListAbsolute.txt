@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\Reezy.exe.config
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\Reezy.exe
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\Reezy.pdb
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.Form1.resources
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.Properties.Resources.resources
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.csproj.CopyComplete
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.exe
+C:\Users\User\source\repos\Reezy\Reezy\obj\Debug\Reezy.pdb
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\System.CodeDom.dll
+C:\Users\User\source\repos\Reezy\Reezy\bin\Debug\System.CodeDom.xml

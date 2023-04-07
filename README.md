@@ -8,12 +8,18 @@ https://discord.gg/QKvgGTWcpA
 **Features:**
 
 
--Ipv4
--Mac Adress
--Pc Specs
--Tokens
--Roblox Token
--Netstat Command output
+-Ipv4 
+
+-Mac Adress 
+
+-Pc Specs 
+
+-Tokens 
+
+-Roblox Token 
+
+-Netstat Command output 
+
 
 **What do you need:**
 

@@ -11,6 +11,10 @@
 -Roblox Token
 -Netstat Command output
 
+**What do you need:**
+
+- A Brain!
+
 
 **How to use:**
 

@@ -1,4 +1,4 @@
-======================================= Extradius Info / Token Stealer =======================================
+=== Extradius Info / Token Stealer ===
 
 
 Features:
